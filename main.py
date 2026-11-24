@@ -10,7 +10,7 @@ from anywhere outside this file.
 import os
 from pathlib import Path
 
-EXCUSE = "The homework said 'show your work' \u2014 so I showed it. It's in my stomach now. Go ahead, check my work."
+EXCUSE = "It had my name on it \u2014 right there at the top, in pencil. If my name's on it, it's mine. I ate it. That's the law."
 
 MAX_CHARS = 200
 

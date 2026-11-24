@@ -11,11 +11,11 @@ the entries two at a time and keeps the funnier one.
 The entry program (`main.py`, Python 3.13, standard library only) writes
 this excuse to `/output/entry.txt`:
 
-> The homework said 'show your work' — so I showed it. It's in my
-> stomach now. Go ahead, check my work.
+> It had my name on it — right there at the top, in pencil. If my
+> name's on it, it's mine. I ate it. That's the law.
 
-The homework literally told the dog to show its work — so it did, in the
-only way a dog can, and it believes it has done nothing wrong.
+The homework had a name on it, so it was the dog's — and a dog eats
+what is its. It believes it has done nothing wrong.
 
 Run it locally:
 
